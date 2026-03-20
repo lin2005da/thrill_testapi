@@ -1,0 +1,2 @@
+2026-02-24 17:44:21,208-INFO-line:38-日志信息:GUEST-API响应状态码: 200
+2026-02-24 17:44:21,209-INFO-line:38-日志信息:GUEST-API响应内容: {"code":0,"time":1771926260,"message":"success","data":{"id":104189,"token":"104189_WviV5NjrcJTzHn41Ij1PwQ0Y9dt7KWDz7ecjoPIW9eR00r59RJUJ4GuQcRXPQF3ujUBOzIefoBaYWqWGctGY3tBqMchNRec50Hsx","email":null}}

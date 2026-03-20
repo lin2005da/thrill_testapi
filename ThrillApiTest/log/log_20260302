@@ -1,0 +1,67 @@
+2026-03-02 08:51:07,178-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 08:56:05,056-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:08:03,914-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:08:03,918-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:08:03,920-ERROR-line:44-日志信息:/api/account/get_original_user请求失败：错误码--0，错误提示--{'id': 104189, 'token': '104189_botoGx5krmL9FNPQE1qL4ZQWMlB7iPmv2c93ptrpomFlBLvvcPlD4AmZSFcKY3rMfe7pDYN58aIJGBYV0GLyzlJpTqNs01SQmZcl', 'email': None}
+2026-03-02 09:08:03,923-ERROR-line:44-日志信息:获取原始用户失败，code: None
+2026-03-02 09:08:38,082-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:08:38,084-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:08:38,084-ERROR-line:44-日志信息:/api/account/get_original_user请求失败：错误码--0，错误提示--{'id': 104189, 'token': '104189_6ytxDU4tHr7rBH3ZG5Ifkw9X1mkZGkvhxOjjYURERh8br0nLTIKUt8yUwpI1ZGv05WVs4NkhUkzxOFceLAqbJTX7renM7Qkjh7jx', 'email': None}
+2026-03-02 09:08:38,085-ERROR-line:44-日志信息:获取原始用户失败，code: 0
+2026-03-02 09:31:18,300-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:31:18,301-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:31:18,301-ERROR-line:44-日志信息:/api/account/get_original_user请求失败：错误码--0，错误提示--{'id': 104189, 'token': '104189_q7fOIQli0ei8aH1Vfl97JpAGDssP8Wi7GCZeZintVHPI6JFm4GAvZBoRsmAcwxrCBCHqEvG1H1ROsKtrB8BqzUjcaoulUs8VpIpk', 'email': None}
+2026-03-02 09:31:18,301-ERROR-line:44-日志信息:获取原始用户失败，code: 0
+2026-03-02 09:32:18,163-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:32:18,165-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:32:18,166-ERROR-line:44-日志信息:/api/account/get_original_user请求失败：错误码--0，错误提示--{'id': 104189, 'token': '104189_uMiV18TviE5WazKgieWkm7HvAp6qCuhc51CDeO5dR70rYnGW3gHX8YucoIFUogm1mrCFskZHLzqBhHJX0g0eYjG2eUsOF0ao1tuU', 'email': None}
+2026-03-02 09:34:02,962-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:34:02,964-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:34:17,258-ERROR-line:44-日志信息:api/account/guest_login 请求失败：HTTP request failed: HTTPConnectionPool(host='bfc-solitaire-ios.luckfun.vipapi', port=80): Max retries exceeded with url: /account/guest_login (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001FDB8A3ACF0>: Failed to resolve 'bfc-solitaire-ios.luckfun.vipapi' ([Errno 11002] getaddrinfo failed)"))
+2026-03-02 09:38:03,919-ERROR-line:44-日志信息:api/account/guest_login 请求失败：HTTP request failed: HTTPConnectionPool(host='bfc-solitaire-ios.luckfun.vipapi', port=80): Max retries exceeded with url: /account/guest_login (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000028A6B9BACF0>: Failed to resolve 'bfc-solitaire-ios.luckfun.vipapi' ([Errno 11002] getaddrinfo failed)"))
+2026-03-02 09:38:36,887-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:38:36,887-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:38:36,888-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:38:36,930-ERROR-line:44-日志信息:api/account/guest_login 请求失败：HTTP request failed: HTTPConnectionPool(host='bfc-solitaire-ios.luckfun.vipapi', port=80): Max retries exceeded with url: /account/guest_login (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BCC471ADB0>: Failed to resolve 'bfc-solitaire-ios.luckfun.vipapi' ([Errno 11002] getaddrinfo failed)"))
+2026-03-02 09:39:40,760-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:39:40,761-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:39:40,761-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:39:41,306-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 1000
+2026-03-02 09:39:41,306-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 1000
+2026-03-02 09:41:46,824-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:41:46,824-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:41:46,824-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:41:47,356-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 1000
+2026-03-02 09:41:47,358-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 1000
+2026-03-02 09:41:47,359-ERROR-line:44-日志信息:/api/account/guest_login请求失败：{'code': 1000, 'message': 'Undefined index: idfa', 'time': 1772444501, 'data': [], 'errors': ['Undefined index: idfa'], 'io_log': [], 'cs_log': []}
+2026-03-02 09:42:35,297-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:42:35,297-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:42:35,297-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:42:35,887-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 1000
+2026-03-02 09:42:35,887-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 1000
+2026-03-02 09:42:35,888-ERROR-line:44-日志信息:/api/account/guest_login请求失败：{'code': 1000, 'message': 'Undefined index: device_info', 'time': 1772444549, 'data': [], 'errors': ['Undefined index: device_info'], 'io_log': [], 'cs_log': []}
+2026-03-02 09:43:11,097-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:43:11,097-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:43:11,097-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:43:15,336-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 0
+2026-03-02 09:43:15,337-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 0
+2026-03-02 09:44:27,224-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:44:27,225-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:44:27,225-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:44:32,090-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 0
+2026-03-02 09:44:32,090-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 0
+2026-03-02 09:49:09,675-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:49:09,675-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:49:09,675-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:49:14,192-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 0
+2026-03-02 09:49:14,192-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 0
+2026-03-02 09:50:42,812-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:50:42,814-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:50:42,815-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:50:46,710-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 0
+2026-03-02 09:50:46,710-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 0
+2026-03-02 09:52:55,684-INFO-line:38-日志信息:/api/account/get_original_user 请求，状态码: 0
+2026-03-02 09:52:55,684-INFO-line:38-日志信息:/api/account/get_original_user请求成功：响应码: 0
+2026-03-02 09:52:55,684-INFO-line:38-日志信息:使用游客登录
+2026-03-02 09:52:59,779-INFO-line:38-日志信息:/api/account/guest_login 请求，状态码: 0
+2026-03-02 09:52:59,779-INFO-line:38-日志信息:/api/account/guest_login请求成功：响应码: 0
